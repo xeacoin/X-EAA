@@ -1,5 +1,5 @@
 XEACOIN (XEAA)
-
+https://github.com/xeacoin/X-EAA/blob/main/xeacoin.png
 XEACOIN (XEAA) is a decentralized utility token powering the X Economy, a digital ecosystem focused on financial growth, secure transactions, and economic empowerment across Africa.
 
 ---
